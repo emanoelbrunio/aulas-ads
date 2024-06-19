@@ -1,0 +1,20 @@
+
+1. Peça para o usuário digitar seu nome completo e sua data de nascimento, caso o usuário tiver 16 anos ou mais, diga que ele já pode votar, caso contrário, diga que ainda não pode.
+
+
+2. Peça para o usuário digitar os seguintes dados: 
+
+	a. Seu primeiro nome; 
+	b. Segundo nome; 
+	c. Seu tipo sanguíneo (considere só a letra);
+	d. Seu ano de nascimento;
+	e. Sua altura e peso.
+
+No final, mostre a seguinte a mensagem: "Ola, NOME DA PESSOA, voce tem X anos, seu tipo sanguineo é Y, e segundo seu imc de Z voce esta qualificado como W."
+
+Obs: 
+NOME DA PESSOA deve ser substituido pelo nome e sobrenome da pessoa;
+X deve ser substituido pela idade;
+Y deve ser substituido pelo tipo sanguineo da pessoa;
+Z deve ser substituido pelo valor do IMC da pessoa, com precisão de duas casas decimais.
+W deve ser a qualificação da pessoa segundo seu imc, exemplo: obesidade I.
