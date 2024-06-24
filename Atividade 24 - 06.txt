@@ -1,0 +1,121 @@
+Questão 1:
+	Escreva um programa que peça ao usuário um número inteiro e verifique e imprima na tela se:
+	- o número é divisível por 3;
+
+Exemplo de Entrada:
+3 
+Exemplo de Saída:
+O numero 5 é divisível por 3.
+
+
+------------------------------------------------------------------------------------------------------------------
+
+
+Questão 2:
+	Escreva um programa que peça ao usuário um número inteiro e verifique e imprima na tela se:
+	- o número é divisível por 3 e 5 ao mesmo tempo;
+	- o número é par.
+
+Exemplo de Entrada:
+60
+Exemplo de Saída:
+O numero 60 é divisível por 3 e 5.
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Questão 3:
+	Escreva um programa que peça ao usuário um número inteiro e verifique e imprima na tela se:
+	- o número é par ou ímpar.
+
+Exemplo de Entrada:
+31
+Exemplo de Saída:
+O numero 31 é ímpar
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Questão 3:
+	Escreva um programa que peça ao usuário três notas de um aluno e verifique se o aluno passou. Um aluno passa se ambas as notas forem maiores ou iguais a 6.
+
+Exemplo de Entrada:
+Nota 1: 7
+Nota 2: 5
+Nota 3: 9
+
+Exemplo de Saída:
+O aluno não passou.
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Questão 4:
+	Escreva um programa que peça ao usuário sua idade e se ele possui uma carteira de motorista. Um usuário pode dirigir se tiver 18 anos ou mais ou se possuir uma carteira de motorista.
+
+Exemplo de Entrada:
+Idade: 16
+Possui carteira de motorista (1 para sim, 0 para não): 1
+
+Exemplo de Saída:
+Você pode dirigir.
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Questão 5:
+Escreva um programa que peça ao usuário um número inteiro e verifique se ele não é um número positivo.
+
+Exemplo de Entrada:
+-5
+
+Exemplo de Saída:
+O número -5 não é positivo.
+
+Dicas:
+Use o operador ! para inverter a condição.
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Questão 6:
+Escreva um programa que peça ao usuário três números inteiros e exiba a ordem do maior para o menor numero, mostrando quando ele digitou esse numero.
+
+Exemplo de Entrada:
+Número 1: 5
+Número 2: 3
+Número 3: 7
+
+Exemplo de Saída:
+Ordem de digitação: numero 3 (7)> numero 1 (5)> numero 2 (3)
+
+Dicas:
+Use parênteses para garantir a ordem correta da avaliação.
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Questão 7:
+
+	Escreva um programa que peça ao usuário três números inteiros e verifique as seguintes condições:
+
+	- Se o primeiro número é divisível por 3 e o segundo número é divisível por 5.
+	- Se o terceiro número não é zero e o segundo número é negativo.
+	- Se o primeiro número é positivo ou o terceiro número é positivo.
+
+O programa deve combinar essas condições utilizando a ordem de precedência correta dos operadores e exibir se todas as condições combinadas são verdadeiras ou falsas.
+
+Exemplo de entrada:
+Número 1: 9
+Número 2: -10
+Número 3: 7
+
+Exemplo de saída:
+A combinação das condições é verdadeira.
+
