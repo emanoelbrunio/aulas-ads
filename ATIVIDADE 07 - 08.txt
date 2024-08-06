@@ -1,0 +1,64 @@
+INFORMAÇÕES:
+ACESSE O LINK
+https://www.onlinegdb.com/online_c_compiler (compile c online)
+
+
+
+
+1. Crie um algoritmo em C (usando while) que dê como saída o seguinte:
+*
+**
+***
+****
+*****
+******
+*******
+********
+*********
+**********
+
+
+
+2. Crie um algoritmo em C (usando do while) que peça ao usuário o seu nome e sua idade, caso ele seja de maior, peça para ele digitar N números, quando ele digitar um 0, encerre o loop e mostre na tela uma mensagem final no formato a seguir:
+
+“Olá, fulano, sua idade é x e a soma dos números que você digitou é y.”
+
+OBS:
+“fulano” será substituído pelo nome do usuário;
+“x” será substituído pela idade do usuário;
+“y” será substituído pela soma de TODOS os números que ele digitou
+USE A ESTRUTURA “DO WHILE”
+
+
+
+
+
+3. Crie dois algoritmo em C (um usando for e outro usando while/do while ) que dê como saída o seguinte:
+
+         *
+        **
+       ***
+      ****
+     *****
+    ******
+   *******
+  ********
+ *********
+**********
+
+
+
+
+
+4. Escreva um programa em C que gerencie as notas dos alunos de uma turma. O programa deve permitir ao usuário:
+
+- Inserir as 3 notas de CADA ALUNO;
+- Calcule a média de cada aluno;
+- Ao final do calculo da media, pergunte se ele quer inserir mais um aluno. Peça para ele digitar 1 para sim e 0 para não. Caso o usuário digite 0, encerre o programa e saia do loop.
+- Ao final da execução, mostre quantos alunos estão acima da média (7) e quantos estão abaixo dela.
+
+
+
+
+
+
